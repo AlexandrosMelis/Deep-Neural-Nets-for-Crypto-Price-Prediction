@@ -1,0 +1,2 @@
+index,input_size,hidden_size,num_layers,dropout,sequence_length,batch_size,learning_rate,train_loss,val_loss,mae,mse,r2
+13.0,7.0,32.0,2.0,0.2,8.0,16.0,0.001,0.02807240580538443,0.03807552445428691,0.41505426,0.4274187,0.41291281342631747
